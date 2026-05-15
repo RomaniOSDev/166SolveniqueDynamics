@@ -1,0 +1,6 @@
+framework module Pods_166SolveniqueDynamics {
+  umbrella header "Pods-166SolveniqueDynamics-umbrella.h"
+
+  export *
+  module * { export * }
+}
