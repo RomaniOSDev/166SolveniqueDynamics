@@ -7,9 +7,9 @@ enum AppExternalLink {
     var urlString: String {
         switch self {
         case .privacyPolicy:
-            return "https://solvenique166dynamics.site/privacy/168"
+            return "https://solveniquedynamics.com/privacy-policy.html"
         case .termsOfService:
-            return "https://solvenique166dynamics.site/terms/168"
+            return "https://solveniquedynamics.com/support.html"
         }
     }
 
